@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="google_api_key_android">AIzaSyAd8qMrVkYqk0mIim74GsSHMx7mpiC2wtc</string>
+    <string name="app_name">EasyGoogleMap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
